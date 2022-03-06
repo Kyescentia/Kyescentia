@@ -1,11 +1,12 @@
-### 
+### Hello, I'm Kitty!
+
 
 ✨**About Me**
-Bot Developer on @discord
 
+Bot Developer on @discord
 Python3 Scripter
 
-### Hello, I'm Kitty!
+
 
 ---
 
@@ -22,13 +23,16 @@ Python3 Scripter
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=KittySmh&column=8&theme=discord&no-frame=true&no-bg=true"/>
 </a>
 
-
 ### 📊 GitHub Stats:
-![Kitty github stats](https://github-readme-stats.vercel.app/api?username=kittysmh&theme=radical&show_icons=true&theme=github_dark&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kittysmh&layout=compact&theme=github_dark)](https://github.com/kittysmh/github-readme-stats)
+<a href="https://github.com/kittysmh/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kittysmh" />
+</a>
+<a href="https://github.com/kittysmh/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kittysmh&layout=compact&theme=github_dark" />
+</a>
 
 
 ### Discord Pressence
-[![Discord Presence](https://lanyard.cnrad.dev/api/484318483258015754?theme=dark&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/484318483258015754)
+[![Discord Presence](https://lanyard.cnrad.dev/api/484318483258015754?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/484318483258015754)
 
 
