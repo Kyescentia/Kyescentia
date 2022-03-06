@@ -11,7 +11,7 @@
 - I script in Python3
 - I’m looking forward to collaborate on interesting Projects
 - Pronouns: He/Him
-- Scripting 
+- I play games (obviously)
 
 <br/>
 
@@ -35,6 +35,6 @@
 ---
 
 ### Discord Pressence
-[![Discord Presence](https://lanyard.cnrad.dev/api/484318483258015754?theme=dark&animated=true&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/484318483258015754)
+[![Discord Presence](https://lanyard.cnrad.dev/api/484318483258015754?theme=dark&animated=true&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/484318483258015754)
 
 
