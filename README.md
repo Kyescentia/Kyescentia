@@ -35,6 +35,6 @@
 ---
 
 ### Discord Pressence
-[![Discord Presence](https://lanyard.cnrad.dev/api/484318483258015754?theme=dark&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/484318483258015754)
+[![Discord Presence](https://lanyard.cnrad.dev/api/484318483258015754?theme=dark&animated=true&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/484318483258015754)
 
 
