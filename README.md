@@ -14,15 +14,15 @@
 <br/>
 
 ### 🏆 GitHub Profile Trophy:
-<a href="https://github.com/ryo-ma/github-profile-trophy">
+<a href="trophy indeed a yes">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=KittySmh&column=8&theme=discord&no-frame=true&no-bg=true"/>
 </a>
 
 ### 📊 GitHub Stats:
-<a href="https://github.com/kittysmh/github-readme-stats">
+<a href="yes">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kittysmh&theme=github_dark&show_icons=true&count_private=true" />
 </a>
-<a href="https://github.com/kittysmh/github-readme-stats">
+<a href="again, yes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kittysmh&layout=compact" />
 </a>
 
