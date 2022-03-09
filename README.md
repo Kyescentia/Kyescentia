@@ -8,7 +8,6 @@
 <br />
 
 - I live in Malaysia!
-- Real name's Kyan if you're wondering.
 - I script in ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) with ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - I’m looking forward to collaborate on interesting Projects
 - Pronouns: He/Him
