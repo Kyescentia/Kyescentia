@@ -49,9 +49,7 @@
 
 KitMod is a Multi-Utility Tool scripted in Python3 by KittySmh. It has moderation/random/stupid features that you can use to provide the best convenience to your community. Add it today!
 
-Invite [KitMod](https://discord.com/api/oauth2/authorize?client_id=892412665652203572&permissions=1238531173495&scope=bot%20applications.commands) here!
-
-
+Invite [KitMod](https://top.gg/bot/892412665652203572/invite) here!
 
 **KitMusic**
 
