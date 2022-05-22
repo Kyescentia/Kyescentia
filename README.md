@@ -1,6 +1,6 @@
 ### Hello, I'm Kitty!
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KittySmh" alt="KittySmh" /> </p>
 
 ---
 
@@ -8,7 +8,7 @@
 <br />
 
 - I live in Malaysia!
-- I script in ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) with ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+- I script in ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) with <img align="middle" alt="Visual Studio Code" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 - I’m looking forward to collaborate on interesting Projects
 - Pronouns: He/Him
 - I play games (obviously)
@@ -23,18 +23,14 @@
 
 ### 🏆 GitHub Profile Trophy:
 <a href="trophy indeed a yes">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=KittySmh&column=8&theme=discord&no-frame=true&no-bg=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=KittySmh&column=8&theme=juicyfresh&no-frame=true&no-bg=true"/>
 </a>
 
 ---
 
 ### 📊 GitHub Stats:
-<a href="yes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kittysmh&theme=vision-friendly-dark&show_icons=true&count_private=true" />
-</a>
-<a href="again, yes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kittysmh&theme=vision-friendly-dark&layout=compact" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kittysmh&theme=react&show_icons=true&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kittysmh&theme=react&layout=compact" />
 
 ---
 
