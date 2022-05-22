@@ -30,10 +30,10 @@
 
 ### 📊 GitHub Stats:
 <a href="yes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kittysmh&theme=gradient&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kittysmh&theme=vision-friendly-dark&show_icons=true&count_private=true" />
 </a>
 <a href="again, yes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kittysmh&theme=gradient&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kittysmh&theme=vision-friendly-dark&layout=compact" />
 </a>
 
 ---
