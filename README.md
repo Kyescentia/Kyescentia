@@ -14,7 +14,7 @@
 - I play games (obviously)
 - I have the Immunity to anime pfp argument and any other unoriginal comebacks
 - I simp for Elaina from Wandering Witch
-- Owner of [KitGang](https://discord.gg/CrpzQKEVWV). Join plez :)
+- Owner of [KitTech Systems](https://discord.gg/CrpzQKEVWV). Join plez :)
 
 
 <br/>
@@ -30,10 +30,10 @@
 
 ### 📊 GitHub Stats:
 <a href="yes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kittysmh&theme=github_dark&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kittysmh&theme=gradient&show_icons=true&count_private=true" />
 </a>
 <a href="again, yes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kittysmh&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kittysmh&theme=gradient&layout=compact" />
 </a>
 
 ---
