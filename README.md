@@ -1,23 +1,14 @@
-### Hello, I'm Kitty!
+### Hey There!, I'm Kitty <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KittySmh" alt="KittySmh" /> </p>
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/kittysmh)
+### Great to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=KittySmh.KittySmh)
 ---
 
-✨**About Me**
-<br />
-
-- I live in Malaysia!
-- I script in ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) with <img align="middle" alt="Visual Studio Code" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-- I’m looking forward to collaborate on interesting Projects
-- Pronouns: He/Him
-- I play games (obviously)
-- I have the Immunity to anime pfp argument and any other unoriginal comebacks
-- I simp for Elaina from Wandering Witch
-- Owner of [KitTech Systems](https://discord.gg/CrpzQKEVWV). Join plez :)
-
-
-<br/>
+**Information about me:**
+- 🇲🇾 I live in Malaysia!
+- 👨🏻‍💻 I’m currently working on: [KitTech Systems Bots](https://discord.gg/CrpzQKEVWV/)...
+- 📫 Got any questions or inquiries? Contact me at: kitty@kittysmh.tech
+</br>
 
 ---
 
@@ -28,9 +19,12 @@
 
 ---
 
-### 📊 GitHub Stats:
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kittysmh&theme=react&show_icons=true&count_private=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kittysmh&theme=react&layout=compact" />
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KittySmh&show_icons=true&hide_border=true&theme=react&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KittySmh&exclude_repo=KNN-Image-Classification&show_icons=true&theme=react&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 
 ---
 
