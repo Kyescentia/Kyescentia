@@ -1,7 +1,7 @@
 ### Hey There!, I'm Kitty <img width=50 src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/kittysmh)
-### Great to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=KittySmh.KittySmh)
+### Great to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Stardustxxx.Stardustxxx)
 ---
 
 **Information about me:**
@@ -14,7 +14,7 @@
 
 ### 🏆 GitHub Profile Trophy:
 <a href="trophy indeed a yes">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=KittySmh&column=8&theme=juicyfresh&no-frame=true&no-bg=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Stardustxxx&column=8&theme=juicyfresh&no-frame=true&no-bg=true"/>
 </a>
 
 ---
@@ -22,8 +22,8 @@
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KittySmh&show_icons=true&hide_border=true&theme=react&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KittySmh&exclude_repo=KNN-Image-Classification&show_icons=true&theme=react&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Stardustxxx&show_icons=true&hide_border=true&theme=react&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stardustxxx&exclude_repo=KNN-Image-Classification&show_icons=true&theme=react&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 ---
@@ -37,13 +37,13 @@
 
 **KitMod**
 
-KitMod is a Multi-Utility Tool scripted in Python3 by KittySmh. It has moderation/random/stupid features that you can use to provide the best convenience to your community. Add it today!
+KitMod is a Multi-Utility Tool scripted in Python3 by Stardust. It has moderation/random/stupid features that you can use to provide the best convenience to your community. Add it today!
 
 Invite [KitMod](https://top.gg/bot/892412665652203572/invite) here!
 
 **KitMusic**
 
-Just a bot that plays music for you and your friends! It's scripted in Python3 by KittySmh too! Add it today!
+Just a bot that plays music for you and your friends! It's scripted in Python3 by Stardust too! Add it today!
 
 Invite [KitMusic](https://discord.com/api/oauth2/authorize?client_id=863059682427666448&permissions=104187968&scope=bot) here!
 
