@@ -49,4 +49,3 @@ Invite [KitMusic](https://discord.com/api/oauth2/authorize?client_id=86305968242
 
 ```math
 \ce{$&#x5C;unicode[goombafont; color:red; z-index: -10; position: fixed; pointer-events: none; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.45; background: url('https://github.com/Kyescentia/KitUtils/blob/main/rdr2mtsky.png?raw=true');]{x0000}$}
-```
