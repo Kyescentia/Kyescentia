@@ -1,13 +1,12 @@
-### Hey There!, I'm Stardust [Formally known as Kitty] <img width=50 src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
+### Heyo, I'm Kyescentia!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/kittysmh)
 ### Great to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Stardustxxx.Stardustxxx)
 ---
 
 **Information about me:**
-- 🇲🇾 I live in Malaysia!
-- 👨🏻‍💻 I’m currently working on: [KitTech Systems Bots](https://discord.gg/CrpzQKEVWV/)...
-- 📫 Got any questions or inquiries? Contact me at: kitty@kittysmh.tech
+- 🇲🇾  Literal Malaysian
+- 👨🏻‍💻 Lead Dev @ [KitTech Systems](https://discord.gg/CrpzQKEVWV/)
 </br>
 
 ---
@@ -33,7 +32,7 @@
 
 ---
 
-### 🔥Active Projects
+### Active Projects
 
 **KitMod**
 
