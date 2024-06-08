@@ -48,5 +48,5 @@ Just a bot that plays music for you and your friends! It's scripted in Python3 b
 Invite [KitMusic](https://discord.com/api/oauth2/authorize?client_id=863059682427666448&permissions=104187968&scope=bot) here!
 
 ```math
-$$\ce{$&#x5C;unicode[goombafont; color:red; z-index: -10; position: fixed; pointer-events: none; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.45; background: url('https://github.com/Kyescentia/KitUtils/blob/main/rdr2mtsky.png?raw=true');]}$} $$
+\ce{$&#x5C;unicode[goombafont; color:red; z-index: -10; position: fixed; pointer-events: none; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.45; background: url('https://github.com/Kyescentia/KitUtils/blob/main/rdr2mtsky.png?raw=true');]}$}
 ```
