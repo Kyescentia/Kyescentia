@@ -4,21 +4,22 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Kyescentia.Kyescentia)
 ---
 
-**Information about me:**
-- 🇲🇾  Literal Malaysian
-- 👨🏻‍💻 Lead Dev @ [KitTech Systems](https://discord.gg/CrpzQKEVWV/)
+### ✨Information about me
+- Literal Malaysian
+- Lead Developer @ [KitTech Systems](https://discord.gg/CrpzQKEVWV/)
+- Irl Work? No.
 </br>
 
 ---
 
-### 🏆 GitHub Profile Trophy:
+### 🏆 GitHub Profile Trophy
 <a href="trophy indeed a yes">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Kyescentia&column=8&theme=juicyfresh&no-frame=true&no-bg=true"/>
 </a>
 
 ---
 
-📈 **My GitHub Stats:**
+### 📈 My GitHub Stats
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kyescentia&show_icons=true&hide_border=true&theme=react&&count_private=true&include_all_commits=true" />
