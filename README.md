@@ -32,18 +32,3 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/484318483258015754?theme=dark&animated=true&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/484318483258015754)
 
 ---
-
-### Active Projects
-
-**KitMod**
-
-KitMod is a Multi-Utility Tool scripted in Python3 by Stardust. It has moderation/random/stupid features that you can use to provide the best convenience to your community. Add it today!
-
-Invite [KitMod](https://top.gg/bot/892412665652203572/invite) here!
-
-**KitMusic**
-
-Just a bot that plays music for you and your friends! It's scripted in Python3 by Stardust too! Add it today!
-
-Invite [KitMusic](https://discord.com/api/oauth2/authorize?client_id=863059682427666448&permissions=104187968&scope=bot) here!
-
